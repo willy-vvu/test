@@ -1,3 +1,3 @@
 test
 ====
-A test repository to familiarize beginners with github.
+Computer science club is awesome
