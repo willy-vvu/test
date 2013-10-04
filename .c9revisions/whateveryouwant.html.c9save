@@ -1,0 +1,2 @@
+{"ts":1380914986302,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1380914982812,"patch":[[{"diffs":[[1,"<html>\r\n\t<head>\r\n\t\t<title>My awesome website</title> <!-- website title-->\r\n\t</head>\r\n\t<body>\r\n\t\t<h1>Cool heading!</h1> <!-- heading -->\r\n\t\t<a href=”www.dontclickme.com”>Please click me!</a> <!--link-->\r\n\t</body>\r\n</html>\r\n"]],"start1":0,"start2":0,"length1":0,"length2":223}]],"length":223,"saved":false}
